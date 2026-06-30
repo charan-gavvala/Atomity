@@ -1,0 +1,9 @@
+# Dependency and build directories
+atomity-challenge/node_modules/
+atomity-challenge/.next/
+atomity-challenge/build/
+atomity-challenge/out/
+
+# OS/System files
+.DS_Store
+Thumbs.db
