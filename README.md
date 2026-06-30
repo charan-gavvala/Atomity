@@ -1,6 +1,6 @@
 # Atomity Challenge
 
-**Live Demo:** [YOUR_VERCEL_URL](https://YOUR_VERCEL_URL)
+**Live Demo:** [https://atomity-challenge-hjx9copow-charan-gavvalas-projects.vercel.app](https://atomity-challenge-hjx9copow-charan-gavvalas-projects.vercel.app)
 
 A multi-cloud infrastructure dashboard built for the Atomity frontend engineering challenge.
 
